@@ -2,4 +2,3 @@ bin
 .ionide
 .fake
 .vscode
-MyFSharpApp/obj/Debug
